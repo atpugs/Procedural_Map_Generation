@@ -1,4 +1,4 @@
-# Procedural_Map_Generation
+# Procedural Map Generation
  [In collaboration with Craig Cravath (sccravat@ncsu.edu) and Yi Li (yli273@ncsu.edu), CSC584, Department of Computer Science, North Carolina State University]
 
  Procedural content generation (PCG) is to generate game content programmatically through a procedural but random process. Therefore, the generated content is strictly within the game space, but also has unpredictable characteristics. This method not only brings many advantages to game developers: it reduces memory consumption and saves the time of manually producing highly repetitive content. It also brings many benefits to players: the overall content of the game is richer, the playability is improved, and there can be surprises from time to time. However, the PCG technology used in the game development process is mainly limited to certain specific types of game elements, and PCG is rarely deployed to generate the entire game.
